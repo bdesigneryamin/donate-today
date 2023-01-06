@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+.f-color{
+    color: white;
+}
+.desc{
+    font-size: 18px;
+    color: #707070;  
+}
+.header{
+    background-image: url(images/donation1.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 85vh;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    display: flex;
+    margin-bottom: 130px;
+    
+}
+.header-content{
+    text-align: center;
+
+}
+.header-title{
+    font-size: 75px;
+    
+    margin-bottom: 10px;
+}
+.header-desc{
+    font-size: 18px;
+    
+    margin-bottom: 30px;
+}
+.btn-primary{
+    padding: 14px 30px;
+    border: 0;
+    color: white;
+    background-color: #ff5959;
+    border-radius: 5px;
+   font-size: 20px;
+}
+/* Donation part */
+.donation{
+    justify-content: center;
+    text-align: center;
+}
+.donation-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-bottom: 20px;
+}
+.donation-desc{
+    font-size: 18px;
+    color: #707070;
+    margin-bottom: 50px;
+}
+.amount button{
+    gap: 22px;
+}
+.tk{
+    font-weight: 700;
+    font-size: 30px;
+    padding: 44px 25px;
+    background: #FAFAFA;
+    border-radius: 5px;
+    border: none;
+    margin-right: 22px;
+}
+.selected{
+    border: 2px solid #FF5959;
+    color: #FF5959;
+}
+.other-amount{
+    font-size: 18px;
+    color: #B3B3B3;
+    margin-top: 60px;
+}
+#line{
+    margin-left: 27%;
+    width: 850px;
+    margin-bottom: 50px;
+}
+/* Donation plan */
+.plan-top{
+    justify-content: center;
+    text-align: center;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 45px;
+    color: #121212;
+    margin-top: 130px;
+    margin-bottom: 50px;
+    
+    
+}
+.plan-desc{
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+/* plan box */
+.plan-box-container{
+    display: flex;
+    margin: 0 155px;
+    gap: 24px;
+}
+.plan-box{
+  margin: 23px 35px;  
+}
+.plan-box-title{
+    margin-top: 30px;
+}
+.plan-box-desc{
+    margin-top: 16px;
+}
+.plan-box1{
+    padding: 60px 20px;
+    background: #FFF4D6;
+    border-radius: 5px;
+    
+}
+.plan-box2{
+    padding: 60px 20px;
+    background: rgba(255, 89, 89, 0.1);
+    border-radius: 5px;  
+}
+.plan-box3{
+    padding: 60px 20px;
+    background: rgba(79, 157, 166, 0.1);
+    border-radius: 5px; 
+}
+
+
+
+
+
+
+
+
